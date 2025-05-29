@@ -112,19 +112,12 @@ python test.py
 | Mask R-CNN    | 78.5        | 54.2         |
 | Sparse R-CNN  | 79.8        | 55.9         |
 
-### 可视化示例
 
-- **Mask R-CNN Proposal Boxes**  
-  ![Proposal Boxes](work_dirs/output/mask_rcnn_2007_000027.jpg)
-- **Mask R-CNN 最终预测**  
-  ![Final Prediction](work_dirs/output/mask_rcnn_2007_000027.jpg)
-- **Sparse R-CNN 预测**  
-  ![Sparse R-CNN](work_dirs/output/sparse_rcnn_2007_000027.jpg)
 
 ## 模型权重
 
-- [Mask R-CNN 最佳权重](https://your-cloud-storage-link/best_coco_bbox_mAP_epoch_43.pth)
-- [Sparse R-CNN 最佳权重](https://your-cloud-storage-link/best_coco_bbox_mAP_epoch_98.pth)
+- [Mask R-CNN 最佳权重](https://drive.google.com/file/d/1Uq-OhWE6VT16FJhMWcNUFqWLG6peqKJT/view?usp=sharing)
+- [Sparse R-CNN 最佳权重](https://drive.google.com/file/d/1Uq-OhWE6VT16FJhMWcNUFqWLG6peqKJT/view?usp=sharing)
 
 ## 引用
 
